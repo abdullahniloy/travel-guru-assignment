@@ -1,0 +1,20 @@
+.navbar{
+    margin-left: 0px;
+    width: 103%;
+}
+    
+
+.colum img{
+    height: 20px;
+}
+.container{
+    background-image:url('../../Image/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+     background-size: 90%;
+}
+.sundorbanClass{
+    color: yellow;
+}
+.sundorbanClass h1{
+    color: black;
+}

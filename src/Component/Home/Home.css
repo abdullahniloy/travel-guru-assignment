@@ -1,0 +1,22 @@
+
+.colum{
+    margin-right: 5px;
+}
+    
+
+.colum img{
+    height: 20px;
+}
+.container{
+    background-image:url('../../Image/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+     background-size: 90%;
+     
+}
+
+
+.Carousel img{
+    height: 300px;
+}
+
+          
